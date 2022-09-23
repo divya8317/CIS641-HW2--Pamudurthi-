@@ -1,5 +1,15 @@
 # Divya Pamudurthi
-## Personal interest: Art work, technical interest: working on html webpages
-###
+## Interest: 
+- Art work 
+- Dancing
+- Working on html webpages
+- Learning new technologies
+     - **Technical Background**
+        - Python
+        - C programming 
+        - HTML
+        - CSS
+        - Javascript
+![meme](https://www.boredpanda.com/blog/wp-content/uploads/2021/02/2-6026300447d24__700.jpg)
 
 
