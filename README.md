@@ -4,7 +4,7 @@
 - Dancing
 - Working on html webpages
 - Learning new technologies
-     - **Technical Background**
+ ## **Technical Background**
         - Python
         - C programming 
         - HTML
